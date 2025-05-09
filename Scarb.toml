@@ -1,6 +1,7 @@
 [package]
 name = "graffiti"
 version = "0.1.0"
+edition = "2023_01"
 authors = ["Milan Cermak"]
 description = "A Cairo library for building XML-based markup documents."
 keywords = ["cairo", "svg", "html", "xml", "markup"]
